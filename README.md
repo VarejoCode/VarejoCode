@@ -4,11 +4,11 @@
 
 ### Desenvolvimento sob demanda, sem contratos abusivos
 
-[![Website](https://img.shields.io/badge/Website-varejocode.com-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varejocode.com)
+[![Website](https://img.shields.io/badge/Website-varejocode.com.br-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://varejocode.com.br)
 [![GitHub](https://img.shields.io/badge/GitHub-VarejoCode-181717?style=for-the-badge&logo=github)](https://github.com/VarejoCode)
 [![Status](https://img.shields.io/badge/Status-Active-success?style=for-the-badge)]()
 
-<img src="https://raw.githubusercontent.com/VarejoCode/VarejoCode/main/assets/banner.png" alt="VarejoCode Banner" width="800"/>
+<img src="https://raw.githubusercontent.com/VarejoCode/VarejoCode/refs/heads/main/assets/banner.png" alt="VarejoCode Banner" width="800"/>
 
 </div>
 
@@ -63,29 +63,31 @@ Precificação transparente por serviço. Sem surpresas no final do mês.
 
 ## 🛠️ Como Funciona
 
-<div align="center">
+### 1️⃣ Escolha o Serviço
+Navegue pelos nossos serviços e escolha o que melhor atende sua necessidade:
+- Site/Landing Page
+- Sistema Web
+- App Mobile
+- API/Backend
+- Consultoria
 
-```ascii
-┌─────────────────────────────────────────────────────────────────┐
-│                    MODELO VAREJOCODE                             │
-├─────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  1️⃣ ESCOLHA O SERVIÇO    →    2️⃣ PAGAMENTO FACILITADO          │
-│     • Site/Landing Page          • Cartão de crédito           │
-│     • Sistema Web                • PIX                          │
-│     • App Mobile                 • Parcelamento                 │
-│     • API/Backend                                               │
-│     • Consultoria                                               │
-│                                                                  │
-│  3️⃣ DESENVOLVIMENTO       →    4️⃣ ENTREGA E SUPORTE            │
-│     • Sprint Semanal             • Revisões ilimitadas          │
-│     • Updates constantes         • 30 dias de garantia          │
-│     • Comunicação direta         • Documentação completa        │
-│                                                                  │
-└─────────────────────────────────────────────────────────────────┘
-```
+### 2️⃣ Pagamento Facilitado
+Opções flexíveis de pagamento:
+- Cartão de crédito
+- PIX
+- Parcelamento disponível
 
-</div>
+### 3️⃣ Desenvolvimento
+Processo ágil e transparente:
+- Sprint semanal com entregas incrementais
+- Updates constantes sobre o progresso
+- Comunicação direta com a equipe
+
+### 4️⃣ Entrega e Suporte
+Garantia de qualidade:
+- Revisões ilimitadas durante o desenvolvimento
+- 30 dias de garantia pós-entrega
+- Documentação completa do projeto
 
 ---
 
@@ -95,11 +97,11 @@ Precificação transparente por serviço. Sem surpresas no final do mês.
 
 | Serviço | Descrição | Prazo Médio |
 |:-------:|:----------|:-----------:|
-| 🌐 **Sites/Landing Pages** | Sites institucionais, landing pages, portfolios | 3-9 dias |
-| 💻 **Sistemas Web** | Plataformas complexas, dashboards, ERPs | 10-30 dias |
-| 📱 **Apps Mobile** | Aplicativos iOS e Android nativos ou híbridos | 14 - 24 dias |
-| 🔌 **APIs/Backend** | Desenvolvimento de APIs RESTful, microsserviços | 8 -30 dias |
-| 🎨 **UI/UX Design** | Interfaces modernas, protótipos, design systems | 3-14 dias |
+| 🌐 **Sites/Landing Pages** | Sites institucionais, landing pages, portfolios | 7-14 dias |
+| 💻 **Sistemas Web** | Plataformas complexas, dashboards, ERPs | 30-60 dias |
+| 📱 **Apps Mobile** | Aplicativos iOS e Android nativos ou híbridos | 45-90 dias |
+| 🔌 **APIs/Backend** | Desenvolvimento de APIs RESTful, microsserviços | 14-30 dias |
+| 🎨 **UI/UX Design** | Interfaces modernas, protótipos, design systems | 7-21 dias |
 | 🔧 **Manutenção** | Suporte contínuo, correções, melhorias | Sob demanda |
 | 👨‍💻 **Consultoria** | Arquitetura, code review, otimização | Por hora |
 
@@ -214,9 +216,9 @@ Precificação transparente por serviço. Sem surpresas no final do mês.
 
 ### Pronto para desenvolver sem burocracias?
 
-[![Iniciar Projeto](https://img.shields.io/badge/🚀_Iniciar_Projeto-00D9FF?style=for-the-badge&logoColor=white)](https://varejocode.com/iniciar)
-[![Ver Serviços](https://img.shields.io/badge/📋_Ver_Serviços-gray?style=for-the-badge)](https://varejocode.com/servicos)
-[![Falar com Consultor](https://img.shields.io/badge/💬_Falar_com_Consultor-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/varejocode)
+[![Iniciar Projeto](https://img.shields.io/badge/🚀_Iniciar_Projeto-00D9FF?style=for-the-badge&logoColor=white)](https://varejocode.com.br/iniciar)
+[![Ver Serviços](https://img.shields.io/badge/📋_Ver_Serviços-gray?style=for-the-badge)](https://varejocode.com.br/servicos)
+[![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/CWEDfvTR5J)
 
 </div>
 
@@ -226,13 +228,11 @@ Precificação transparente por serviço. Sem surpresas no final do mês.
 
 <div align="center">
 
-| Canal | Link |
-|:------|:-----|
-| 🌐 Website | [varejocode.com](https://varejocode.com) |
-| 📧 Email | contato@varejocode.com |
-| 💬 WhatsApp | [Fale Conosco](https://wa.me/varejocode) |
-| 🐦 Twitter | [@varejocode](https://twitter.com/varejocode) |
-| 💼 LinkedIn | [VarejoCode](https://linkedin.com/company/varejocode) |
+**🌐 Website:** [varejocode.com.br](https://varejocode.com.br)
+
+**📧 Email:** contato@varejocode.com
+
+**💬 Discord:** [Entre na nossa comunidade](https://discord.com/invite/CWEDfvTR5J)
 
 </div>
 
@@ -240,7 +240,7 @@ Precificação transparente por serviço. Sem surpresas no final do mês.
 
 ## 📄 Licença e Termos
 
-Este repositório e seu conteúdo são propriedade da VarejoCode. Para informações sobre licenciamento de projetos desenvolvidos, consulte nossos [Termos de Serviço](https://varejocode.com/termos).
+Este repositório e seu conteúdo são propriedade da VarejoCode. Para informações sobre licenciamento de projetos desenvolvidos, consulte nossos [Termos de Serviço](https://varejocode.com.br/termos).
 
 ---
 

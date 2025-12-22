@@ -189,7 +189,7 @@ Garantia de qualidade:
 > 
 > *"A VarejoCode transformou nossa ideia em realidade. O modelo sob demanda foi perfeito para nossa startup!"*
 > 
-> **— João Silva, CEO da TechStartup**
+> **— João Silva**
 
 ---
 

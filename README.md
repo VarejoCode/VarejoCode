@@ -111,20 +111,23 @@ Garantia de qualidade:
 
 ## 🏆 Modelos de Contratação
 
-### 📦 Sob Demanda (Mais Popular)
+### 📦 Hospedado (Mais Popular)
 ```
 ✓ Pague apenas pelo que usar
-✓ Sem taxas mensais
-✓ Sem fidelidade
-✓ Ideal para projetos pontuais
+✓ 70% mais barato que o mercado tradicional
+✓ Hospedagem garantida e suporte continuo
+✓ Manutenções gratuitas
+✓ Ideal para projetos emergentes e pontuais
+🔴 Sem acesso ao codigo fonte 
 ```
 
-### 🎫 Pacotes de Horas
+### 📦 Plano Source 
 ```
-✓ 20h, 40h ou 80h mensais
-✓ Desconto progressivo
-✓ Validade de 3 meses
-✓ Ideal para manutenção contínua
+✓ Código-fonte 100% seu
+✓ 70% mais barato que o mercado tradicional
+✓ Controle completo do projeto
+✓ Ideal para quem quer controle total
+✓ Documentação técnica completa
 ```
 
 ### 🤝 Dedicação Exclusiva

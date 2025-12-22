@@ -217,8 +217,8 @@ Garantia de qualidade:
 
 ### Pronto para desenvolver sem burocracias?
 
-[![Iniciar Projeto](https://img.shields.io/badge/🚀_Iniciar_Projeto-00D9FF?style=for-the-badge&logoColor=white)](https://varejocode.com.br/iniciar)
-[![Ver Serviços](https://img.shields.io/badge/📋_Ver_Serviços-gray?style=for-the-badge)](https://varejocode.com.br/servicos)
+[![Iniciar Projeto](https://img.shields.io/badge/🚀_Iniciar_Projeto-00D9FF?style=for-the-badge&logoColor=white)](https://varejocode.com.br)
+[![Ver Serviços](https://img.shields.io/badge/📋_Ver_Serviços-gray?style=for-the-badge)](https://varejocode.com.br)
 [![Discord](https://img.shields.io/badge/💬_Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/invite/CWEDfvTR5J)
 
 </div>

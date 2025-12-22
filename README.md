@@ -205,7 +205,7 @@ Garantia de qualidade:
 > 
 > *"Equipe altamente qualificada. Entregaram nosso app mobile antes do prazo!"*
 > 
-> **— Pedro Costa, Fundador da AppIdeas**
+> **— Pedro Costa**
 
 </div>
 

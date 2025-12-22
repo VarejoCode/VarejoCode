@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🚀 VarejoCode
+# <img src="https://varejocode.com.br/logo.png" alt="VarejoCode" width="32" height="32"/> VarejoCode
 
 ### Desenvolvimento sob demanda, sem contratos abusivos
 

@@ -174,8 +174,6 @@ Garantia de qualidade:
 |:--------|:------|
 | 🎯 **Projetos Entregues** | 150+ |
 | ⭐ **Clientes Satisfeitos** | 80+ |
-| 👨‍💻 **Desenvolvedores** | 15+ |
-| 🌎 **Países Atendidos** | 5 |
 | ⚡ **Taxa de Aprovação** | 98% |
 | 🔄 **Tempo Médio de Resposta** | 2h |
 

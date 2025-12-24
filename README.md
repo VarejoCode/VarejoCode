@@ -231,7 +231,7 @@ Garantia de qualidade:
 
 **🌐 Website:** [varejocode.com.br](https://varejocode.com.br)
 
-**📧 Email:** contato@varejocode.com
+**📧 Email:** contato@varejocode.com.br
 
 **💬 Discord:** [Entre na nossa comunidade](https://discord.com/invite/CWEDfvTR5J)
 
